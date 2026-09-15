@@ -1,0 +1,180 @@
+B001;Egri csillagok;Gárdonyi Géza;informatika
+B002;A Pál utcai fiúk;Molnár Ferenc;életrajz
+B003;A kőszívű ember fiai;Jókai Mór;sci-fi
+B004;Szent Péter esernyője;Mikszáth Kálmán;történelem
+B005;Kincskereső kisködmön;Móra Ferenc;regény
+B006;Abigél;Szabó Magda;regény
+B007;Édes Anna;Kosztolányi Dezső;regény
+B008;Tanár úr kérem;Karinthy Frigyes;életrajz
+B009;80 nap alatt a Föld körül;Jules Verne;ifjúsági
+B010;Robinson Crusoe;Daniel Defoe;informatika
+B011;Az állatfarm;J. K. Rowling;ifjúsági
+B012;Gyilkosság az Orient expresszen;George Orwell;regény
+B013;Alapítvány;Agatha Christie;informatika
+B014;Piszkos Fred, a kapitány;Isaac Asimov;természettudomány
+B015;Python alapok;Rejtő Jenő;informatika
+B016;Algoritmusok középiskolásoknak;Kiss Péter;történelem
+B017;Magyarország története;Nagy Anna;természettudomány
+B018;A világegyetem titkai;Tóth Gábor;természettudomány
+B019;Digitális kultúra;Varga Eszter;életrajz
+B020;Tüskevár;Fekete István;történelem
+B021;Egri csillagok 2. kiadás;Gárdonyi Géza;regény
+B022;A Pál utcai fiúk 2. kiadás;Molnár Ferenc;krimi
+B023;A kőszívű ember fiai 2. kiadás;Jókai Mór;életrajz
+B024;Szent Péter esernyője 2. kiadás;Mikszáth Kálmán;életrajz
+B025;Kincskereső kisködmön 2. kiadás;Móra Ferenc;életrajz
+B026;Abigél 2. kiadás;Szabó Magda;ifjúsági
+B027;Édes Anna 2. kiadás;Kosztolányi Dezső;sci-fi
+B028;Tanár úr kérem 2. kiadás;Karinthy Frigyes;ifjúsági
+B029;80 nap alatt a Föld körül 2. kiadás;Jules Verne;életrajz
+B030;Robinson Crusoe 2. kiadás;Daniel Defoe;ifjúsági
+B031;Az állatfarm 2. kiadás;J. K. Rowling;sci-fi
+B032;Gyilkosság az Orient expresszen 2. kiadás;George Orwell;krimi
+B033;Alapítvány 2. kiadás;Agatha Christie;sci-fi
+B034;Piszkos Fred, a kapitány 2. kiadás;Isaac Asimov;krimi
+B035;Python alapok 2. kiadás;Rejtő Jenő;sci-fi
+B036;Algoritmusok középiskolásoknak 2. kiadás;Kiss Péter;sci-fi
+B037;Magyarország története 2. kiadás;Nagy Anna;életrajz
+B038;A világegyetem titkai 2. kiadás;Tóth Gábor;sci-fi
+B039;Digitális kultúra 2. kiadás;Varga Eszter;természettudomány
+B040;Tüskevár 2. kiadás;Fekete István;regény
+B041;Egri csillagok 3. kiadás;Gárdonyi Géza;sci-fi
+B042;A Pál utcai fiúk 3. kiadás;Molnár Ferenc;történelem
+B043;A kőszívű ember fiai 3. kiadás;Jókai Mór;történelem
+B044;Szent Péter esernyője 3. kiadás;Mikszáth Kálmán;természettudomány
+B045;Kincskereső kisködmön 3. kiadás;Móra Ferenc;természettudomány
+B046;Abigél 3. kiadás;Szabó Magda;regény
+B047;Édes Anna 3. kiadás;Kosztolányi Dezső;regény
+B048;Tanár úr kérem 3. kiadás;Karinthy Frigyes;krimi
+B049;80 nap alatt a Föld körül 3. kiadás;Jules Verne;informatika
+B050;Robinson Crusoe 3. kiadás;Daniel Defoe;informatika
+B051;Az állatfarm 3. kiadás;J. K. Rowling;természettudomány
+B052;Gyilkosság az Orient expresszen 3. kiadás;George Orwell;informatika
+B053;Alapítvány 3. kiadás;Agatha Christie;sci-fi
+B054;Piszkos Fred, a kapitány 3. kiadás;Isaac Asimov;krimi
+B055;Python alapok 3. kiadás;Rejtő Jenő;történelem
+B056;Algoritmusok középiskolásoknak 3. kiadás;Kiss Péter;életrajz
+B057;Magyarország története 3. kiadás;Nagy Anna;történelem
+B058;A világegyetem titkai 3. kiadás;Tóth Gábor;informatika
+B059;Digitális kultúra 3. kiadás;Varga Eszter;informatika
+B060;Tüskevár 3. kiadás;Fekete István;ifjúsági
+B061;Egri csillagok 4. kiadás;Gárdonyi Géza;ifjúsági
+B062;A Pál utcai fiúk 4. kiadás;Molnár Ferenc;természettudomány
+B063;A kőszívű ember fiai 4. kiadás;Jókai Mór;történelem
+B064;Szent Péter esernyője 4. kiadás;Mikszáth Kálmán;regény
+B065;Kincskereső kisködmön 4. kiadás;Móra Ferenc;életrajz
+B066;Abigél 4. kiadás;Szabó Magda;regény
+B067;Édes Anna 4. kiadás;Kosztolányi Dezső;krimi
+B068;Tanár úr kérem 4. kiadás;Karinthy Frigyes;természettudomány
+B069;80 nap alatt a Föld körül 4. kiadás;Jules Verne;életrajz
+B070;Robinson Crusoe 4. kiadás;Daniel Defoe;történelem
+B071;Az állatfarm 4. kiadás;J. K. Rowling;sci-fi
+B072;Gyilkosság az Orient expresszen 4. kiadás;George Orwell;regény
+B073;Alapítvány 4. kiadás;Agatha Christie;ifjúsági
+B074;Piszkos Fred, a kapitány 4. kiadás;Isaac Asimov;krimi
+B075;Python alapok 4. kiadás;Rejtő Jenő;életrajz
+B076;Algoritmusok középiskolásoknak 4. kiadás;Kiss Péter;ifjúsági
+B077;Magyarország története 4. kiadás;Nagy Anna;ifjúsági
+B078;A világegyetem titkai 4. kiadás;Tóth Gábor;krimi
+B079;Digitális kultúra 4. kiadás;Varga Eszter;regény
+B080;Tüskevár 4. kiadás;Fekete István;ifjúsági
+B081;Egri csillagok 5. kiadás;Gárdonyi Géza;regény
+B082;A Pál utcai fiúk 5. kiadás;Molnár Ferenc;ifjúsági
+B083;A kőszívű ember fiai 5. kiadás;Jókai Mór;sci-fi
+B084;Szent Péter esernyője 5. kiadás;Mikszáth Kálmán;informatika
+B085;Kincskereső kisködmön 5. kiadás;Móra Ferenc;sci-fi
+B086;Abigél 5. kiadás;Szabó Magda;regény
+B087;Édes Anna 5. kiadás;Kosztolányi Dezső;regény
+B088;Tanár úr kérem 5. kiadás;Karinthy Frigyes;regény
+B089;80 nap alatt a Föld körül 5. kiadás;Jules Verne;informatika
+B090;Robinson Crusoe 5. kiadás;Daniel Defoe;sci-fi
+B091;Az állatfarm 5. kiadás;J. K. Rowling;krimi
+B092;Gyilkosság az Orient expresszen 5. kiadás;George Orwell;történelem
+B093;Alapítvány 5. kiadás;Agatha Christie;természettudomány
+B094;Piszkos Fred, a kapitány 5. kiadás;Isaac Asimov;életrajz
+B095;Python alapok 5. kiadás;Rejtő Jenő;krimi
+B096;Algoritmusok középiskolásoknak 5. kiadás;Kiss Péter;életrajz
+B097;Magyarország története 5. kiadás;Nagy Anna;történelem
+B098;A világegyetem titkai 5. kiadás;Tóth Gábor;történelem
+B099;Digitális kultúra 5. kiadás;Varga Eszter;krimi
+B100;Tüskevár 5. kiadás;Fekete István;természettudomány
+B101;Egri csillagok 6. kiadás;Gárdonyi Géza;történelem
+B102;A Pál utcai fiúk 6. kiadás;Molnár Ferenc;krimi
+B103;A kőszívű ember fiai 6. kiadás;Jókai Mór;életrajz
+B104;Szent Péter esernyője 6. kiadás;Mikszáth Kálmán;ifjúsági
+B105;Kincskereső kisködmön 6. kiadás;Móra Ferenc;informatika
+B106;Abigél 6. kiadás;Szabó Magda;ifjúsági
+B107;Édes Anna 6. kiadás;Kosztolányi Dezső;természettudomány
+B108;Tanár úr kérem 6. kiadás;Karinthy Frigyes;sci-fi
+B109;80 nap alatt a Föld körül 6. kiadás;Jules Verne;életrajz
+B110;Robinson Crusoe 6. kiadás;Daniel Defoe;ifjúsági
+B111;Az állatfarm 6. kiadás;J. K. Rowling;természettudomány
+B112;Gyilkosság az Orient expresszen 6. kiadás;George Orwell;sci-fi
+B113;Alapítvány 6. kiadás;Agatha Christie;történelem
+B114;Piszkos Fred, a kapitány 6. kiadás;Isaac Asimov;sci-fi
+B115;Python alapok 6. kiadás;Rejtő Jenő;sci-fi
+B116;Algoritmusok középiskolásoknak 6. kiadás;Kiss Péter;természettudomány
+B117;Magyarország története 6. kiadás;Nagy Anna;történelem
+B118;A világegyetem titkai 6. kiadás;Tóth Gábor;informatika
+B119;Digitális kultúra 6. kiadás;Varga Eszter;regény
+B120;Tüskevár 6. kiadás;Fekete István;történelem
+B121;Egri csillagok 7. kiadás;Gárdonyi Géza;ifjúsági
+B122;A Pál utcai fiúk 7. kiadás;Molnár Ferenc;életrajz
+B123;A kőszívű ember fiai 7. kiadás;Jókai Mór;informatika
+B124;Szent Péter esernyője 7. kiadás;Mikszáth Kálmán;sci-fi
+B125;Kincskereső kisködmön 7. kiadás;Móra Ferenc;sci-fi
+B126;Abigél 7. kiadás;Szabó Magda;krimi
+B127;Édes Anna 7. kiadás;Kosztolányi Dezső;informatika
+B128;Tanár úr kérem 7. kiadás;Karinthy Frigyes;informatika
+B129;80 nap alatt a Föld körül 7. kiadás;Jules Verne;természettudomány
+B130;Robinson Crusoe 7. kiadás;Daniel Defoe;sci-fi
+B131;Az állatfarm 7. kiadás;J. K. Rowling;krimi
+B132;Gyilkosság az Orient expresszen 7. kiadás;George Orwell;természettudomány
+B133;Alapítvány 7. kiadás;Agatha Christie;informatika
+B134;Piszkos Fred, a kapitány 7. kiadás;Isaac Asimov;életrajz
+B135;Python alapok 7. kiadás;Rejtő Jenő;informatika
+B136;Algoritmusok középiskolásoknak 7. kiadás;Kiss Péter;természettudomány
+B137;Magyarország története 7. kiadás;Nagy Anna;regény
+B138;A világegyetem titkai 7. kiadás;Tóth Gábor;regény
+B139;Digitális kultúra 7. kiadás;Varga Eszter;regény
+B140;Tüskevár 7. kiadás;Fekete István;informatika
+B141;Egri csillagok 8. kiadás;Gárdonyi Géza;regény
+B142;A Pál utcai fiúk 8. kiadás;Molnár Ferenc;sci-fi
+B143;A kőszívű ember fiai 8. kiadás;Jókai Mór;regény
+B144;Szent Péter esernyője 8. kiadás;Mikszáth Kálmán;ifjúsági
+B145;Kincskereső kisködmön 8. kiadás;Móra Ferenc;természettudomány
+B146;Abigél 8. kiadás;Szabó Magda;sci-fi
+B147;Édes Anna 8. kiadás;Kosztolányi Dezső;regény
+B148;Tanár úr kérem 8. kiadás;Karinthy Frigyes;krimi
+B149;80 nap alatt a Föld körül 8. kiadás;Jules Verne;ifjúsági
+B150;Robinson Crusoe 8. kiadás;Daniel Defoe;regény
+B151;Az állatfarm 8. kiadás;J. K. Rowling;krimi
+B152;Gyilkosság az Orient expresszen 8. kiadás;George Orwell;természettudomány
+B153;Alapítvány 8. kiadás;Agatha Christie;történelem
+B154;Piszkos Fred, a kapitány 8. kiadás;Isaac Asimov;informatika
+B155;Python alapok 8. kiadás;Rejtő Jenő;életrajz
+B156;Algoritmusok középiskolásoknak 8. kiadás;Kiss Péter;ifjúsági
+B157;Magyarország története 8. kiadás;Nagy Anna;sci-fi
+B158;A világegyetem titkai 8. kiadás;Tóth Gábor;történelem
+B159;Digitális kultúra 8. kiadás;Varga Eszter;regény
+B160;Tüskevár 8. kiadás;Fekete István;történelem
+B161;Egri csillagok 9. kiadás;Gárdonyi Géza;történelem
+B162;A Pál utcai fiúk 9. kiadás;Molnár Ferenc;krimi
+B163;A kőszívű ember fiai 9. kiadás;Jókai Mór;sci-fi
+B164;Szent Péter esernyője 9. kiadás;Mikszáth Kálmán;történelem
+B165;Kincskereső kisködmön 9. kiadás;Móra Ferenc;sci-fi
+B166;Abigél 9. kiadás;Szabó Magda;történelem
+B167;Édes Anna 9. kiadás;Kosztolányi Dezső;regény
+B168;Tanár úr kérem 9. kiadás;Karinthy Frigyes;ifjúsági
+B169;80 nap alatt a Föld körül 9. kiadás;Jules Verne;regény
+B170;Robinson Crusoe 9. kiadás;Daniel Defoe;regény
+B171;Az állatfarm 9. kiadás;J. K. Rowling;regény
+B172;Gyilkosság az Orient expresszen 9. kiadás;George Orwell;regény
+B173;Alapítvány 9. kiadás;Agatha Christie;történelem
+B174;Piszkos Fred, a kapitány 9. kiadás;Isaac Asimov;ifjúsági
+B175;Python alapok 9. kiadás;Rejtő Jenő;életrajz
+B176;Algoritmusok középiskolásoknak 9. kiadás;Kiss Péter;ifjúsági
+B177;Magyarország története 9. kiadás;Nagy Anna;regény
+B178;A világegyetem titkai 9. kiadás;Tóth Gábor;természettudomány
+B179;Digitális kultúra 9. kiadás;Varga Eszter;regény
+B180;Tüskevár 9. kiadás;Fekete István;informatika

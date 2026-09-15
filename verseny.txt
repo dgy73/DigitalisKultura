@@ -1,0 +1,300 @@
+PRN432;Dobó István Gimnázium;Eger;9;61;63;55;84
+VRF659;Kazinczy Ferenc Gimnázium;Győr;9;77;71;86;68
+JCN918;ELTE Apáczai Csere János Gimnázium;Budapest;9;92;61;74;75
+XQD534;Dobó István Gimnázium;Eger;11;84;68;95;94
+KSX399;Bolyai János Gimnázium;Kecskemét;10;73;78;74;83
+NIS057;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;11;45;66;36;16
+ZEL486;Kölcsey Ferenc Gimnázium;Nyíregyháza;11;100;69;41;46
+VZB707;Berzsenyi Dániel Gimnázium;Budapest;10;48;56;74;57
+ZVD547;Kazinczy Ferenc Gimnázium;Győr;10;47;94;40;98
+IJC958;Kazinczy Ferenc Gimnázium;Győr;10;71;94;82;53
+ZYU416;Bolyai János Gimnázium;Kecskemét;9;80;41;77;55
+NKW432;Berzsenyi Dániel Gimnázium;Budapest;9;49;38;42;71
+RXK464;Kölcsey Ferenc Gimnázium;Nyíregyháza;9;41;40;27;55
+AMG643;Fazekas Mihály Gimnázium;Budapest;11;88;85;41;76
+UYE867;Vetési Albert Gimnázium;Veszprém;12;35;74;71;71
+SKZ288;Révai Miklós Gimnázium;Győr;9;60;82;50;90
+SHA970;Diósgyőri Gimnázium;Miskolc;10;59;48;47;41
+MTN614;Fazekas Mihály Gimnázium;Budapest;10;58;47;47;48
+QNY942;Berzsenyi Dániel Gimnázium;Budapest;12;77;88;98;100
+ZIJ764;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;12;43;57;59;80
+XVG428;Herman Ottó Gimnázium;Miskolc;12;94;61;55;70
+HLS700;Dobó István Gimnázium;Eger;12;58;50;39;70
+VGW392;Kölcsey Ferenc Gimnázium;Nyíregyháza;12;82;89;95;87
+HPL620;Dobó István Gimnázium;Eger;9;44;65;40;59
+LER042;Vetési Albert Gimnázium;Veszprém;10;69;76;52;75
+CKW543;Tóth Árpád Gimnázium;Debrecen;10;64;64;82;82
+IXL948;Tóth Árpád Gimnázium;Debrecen;11;41;44;59;73
+FKX503;Bolyai János Gimnázium;Kecskemét;10;93;62;81;75
+EBH187;Diósgyőri Gimnázium;Miskolc;12;69;75;84;82
+PBO365;Kölcsey Ferenc Gimnázium;Nyíregyháza;12;45;75;79;68
+CGJ184;Kazinczy Ferenc Gimnázium;Győr;10;85;59;71;68
+AQY584;Herman Ottó Gimnázium;Miskolc;12;49;66;60;56
+JVV124;Tóth Árpád Gimnázium;Debrecen;11;88;78;80;85
+OWV491;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;11;75;71;100;88
+OKX751;Berzsenyi Dániel Gimnázium;Budapest;10;75;37;52;84
+XCR974;Vetési Albert Gimnázium;Veszprém;12;42;55;79;43
+CAG166;Tóth Árpád Gimnázium;Debrecen;12;40;33;70;73
+ZNX825;Berzsenyi Dániel Gimnázium;Budapest;11;76;79;99;96
+GPO906;Tóth Árpád Gimnázium;Debrecen;12;47;55;63;34
+TFN645;Tóth Árpád Gimnázium;Debrecen;9;6;43;37;27
+WEP539;Dobó István Gimnázium;Eger;9;57;64;67;50
+EVJ861;Révai Miklós Gimnázium;Győr;12;45;55;78;54
+QNN096;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;11;66;73;59;66
+VOF805;Herman Ottó Gimnázium;Miskolc;12;73;62;41;66
+OYV460;Vetési Albert Gimnázium;Veszprém;11;95;59;69;74
+XTI892;Dobó István Gimnázium;Eger;9;70;71;78;78
+POW414;Kazinczy Ferenc Gimnázium;Győr;12;34;36;49;81
+WVM823;Fazekas Mihály Gimnázium;Budapest;9;59;60;62;31
+GAG492;Dobó István Gimnázium;Eger;10;87;100;97;71
+CJY474;Herman Ottó Gimnázium;Miskolc;12;80;73;85;91
+PPA880;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;10;49;84;46;65
+DUW442;Tóth Árpád Gimnázium;Debrecen;12;66;71;77;98
+PQS742;Vetési Albert Gimnázium;Veszprém;12;54;41;47;65
+CIU427;Berzsenyi Dániel Gimnázium;Budapest;12;16;53;38;71
+AFJ743;Révai Miklós Gimnázium;Győr;12;50;73;47;55
+TWV479;Herman Ottó Gimnázium;Miskolc;11;96;61;57;47
+ZPZ994;Kazinczy Ferenc Gimnázium;Győr;10;90;100;98;92
+FGF620;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;9;87;64;72;90
+ALI365;Dobó István Gimnázium;Eger;10;70;27;61;57
+NDT232;Földes Ferenc Gimnázium;Miskolc;10;75;89;73;79
+RIE873;Kölcsey Ferenc Gimnázium;Nyíregyháza;9;62;40;20;55
+DDZ625;Vetési Albert Gimnázium;Veszprém;9;86;81;59;57
+LFX299;Kölcsey Ferenc Gimnázium;Nyíregyháza;12;46;77;85;88
+EDG449;Tóth Árpád Gimnázium;Debrecen;9;68;45;57;68
+ILW772;Tóth Árpád Gimnázium;Debrecen;11;80;77;85;69
+HEZ439;Tóth Árpád Gimnázium;Debrecen;12;91;68;59;41
+OEY010;Kölcsey Ferenc Gimnázium;Nyíregyháza;9;41;62;52;34
+MYB676;Berzsenyi Dániel Gimnázium;Budapest;10;100;88;75;59
+QJN411;Berzsenyi Dániel Gimnázium;Budapest;11;66;63;61;83
+EWM456;Dobó István Gimnázium;Eger;10;64;64;66;83
+ZZU414;Bolyai János Gimnázium;Kecskemét;10;80;73;45;79
+EQR290;Révai Miklós Gimnázium;Győr;9;59;71;77;68
+AZR606;Fazekas Mihály Gimnázium;Budapest;10;57;20;68;67
+LIU519;ELTE Apáczai Csere János Gimnázium;Budapest;9;49;12;29;54
+AOK241;Bolyai János Gimnázium;Kecskemét;10;60;88;74;49
+EWM532;Kölcsey Ferenc Gimnázium;Nyíregyháza;10;41;68;57;38
+DEW435;Kazinczy Ferenc Gimnázium;Győr;12;63;58;57;57
+CLV538;Tóth Árpád Gimnázium;Debrecen;12;42;50;83;60
+PXN843;Herman Ottó Gimnázium;Miskolc;10;93;93;93;94
+QDW217;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;12;46;10;21;74
+TND123;ELTE Apáczai Csere János Gimnázium;Budapest;11;39;45;42;60
+JPA810;Herman Ottó Gimnázium;Miskolc;10;50;98;77;93
+FXP002;Földes Ferenc Gimnázium;Miskolc;11;59;37;31;40
+KZM486;Kazinczy Ferenc Gimnázium;Győr;10;36;52;37;58
+XKC819;Vetési Albert Gimnázium;Veszprém;12;70;83;32;59
+OXI661;Földes Ferenc Gimnázium;Miskolc;10;21;34;40;27
+DUR087;Révai Miklós Gimnázium;Győr;9;56;77;78;80
+VRF985;Diósgyőri Gimnázium;Miskolc;11;58;81;70;47
+ZRT328;Tóth Árpád Gimnázium;Debrecen;9;78;73;61;81
+QKM263;Földes Ferenc Gimnázium;Miskolc;9;39;47;61;74
+EJN694;Herman Ottó Gimnázium;Miskolc;9;93;81;81;71
+DKE422;Berzsenyi Dániel Gimnázium;Budapest;11;41;80;68;67
+YTS242;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;12;50;65;46;50
+ANU239;Berzsenyi Dániel Gimnázium;Budapest;9;43;55;82;77
+UZE311;Vetési Albert Gimnázium;Veszprém;12;91;83;84;100
+LRF800;Révai Miklós Gimnázium;Győr;12;79;80;52;86
+JUF000;Diósgyőri Gimnázium;Miskolc;12;38;45;51;71
+UGS860;Leőwey Klára Gimnázium;Pécs;11;56;62;52;49
+WDE742;Leőwey Klára Gimnázium;Pécs;11;76;89;82;42
+KUI770;Kölcsey Ferenc Gimnázium;Nyíregyháza;12;63;100;52;75
+TKA935;Kölcsey Ferenc Gimnázium;Nyíregyháza;10;100;76;88;86
+FNR916;Kölcsey Ferenc Gimnázium;Nyíregyháza;12;44;63;66;65
+AVO688;Földes Ferenc Gimnázium;Miskolc;11;75;56;80;92
+WAD473;ELTE Apáczai Csere János Gimnázium;Budapest;10;97;74;74;50
+WLG092;Kazinczy Ferenc Gimnázium;Győr;11;60;76;51;68
+WWT214;Diósgyőri Gimnázium;Miskolc;10;60;100;69;77
+RGV756;Vetési Albert Gimnázium;Veszprém;10;27;35;73;74
+HQX801;Fazekas Mihály Gimnázium;Budapest;10;100;93;78;69
+VRO002;Tóth Árpád Gimnázium;Debrecen;9;20;85;61;87
+OPL529;Bolyai János Gimnázium;Kecskemét;9;91;68;46;56
+MGK083;Berzsenyi Dániel Gimnázium;Budapest;9;74;56;69;64
+FKJ064;Dobó István Gimnázium;Eger;9;18;49;28;34
+KIH110;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;10;79;41;55;64
+CYT634;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;9;77;87;100;79
+MKW066;Bolyai János Gimnázium;Kecskemét;10;62;40;41;67
+CDV057;Leőwey Klára Gimnázium;Pécs;9;71;50;51;52
+TZV638;Diósgyőri Gimnázium;Miskolc;12;53;72;63;64
+UVZ026;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;11;84;88;77;78
+ZGS129;Dobó István Gimnázium;Eger;11;45;78;56;70
+ZBB130;Fazekas Mihály Gimnázium;Budapest;12;100;70;65;100
+YEE480;Fazekas Mihály Gimnázium;Budapest;11;61;64;43;51
+BHQ838;Kazinczy Ferenc Gimnázium;Győr;9;49;100;65;64
+CKG683;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;12;72;55;70;77
+JNK166;Földes Ferenc Gimnázium;Miskolc;12;13;47;32;29
+OTG244;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;11;71;78;83;68
+CLA568;Földes Ferenc Gimnázium;Miskolc;10;43;70;75;55
+AGG290;Herman Ottó Gimnázium;Miskolc;10;58;47;52;57
+AFI932;Földes Ferenc Gimnázium;Miskolc;9;100;100;98;78
+GJO245;ELTE Apáczai Csere János Gimnázium;Budapest;11;95;100;93;67
+NWC121;Herman Ottó Gimnázium;Miskolc;10;62;70;42;71
+UHB781;Vetési Albert Gimnázium;Veszprém;10;76;87;79;100
+IEQ991;Vetési Albert Gimnázium;Veszprém;12;54;31;63;37
+FQM769;Berzsenyi Dániel Gimnázium;Budapest;11;66;74;71;58
+PWP485;Fazekas Mihály Gimnázium;Budapest;12;100;75;95;87
+GOH405;Révai Miklós Gimnázium;Győr;11;86;59;85;66
+RCE769;Földes Ferenc Gimnázium;Miskolc;11;62;71;90;77
+KNO478;Tóth Árpád Gimnázium;Debrecen;12;72;55;61;74
+HIU077;ELTE Apáczai Csere János Gimnázium;Budapest;9;72;47;46;42
+HDD073;ELTE Apáczai Csere János Gimnázium;Budapest;9;82;88;72;90
+YVI195;Kölcsey Ferenc Gimnázium;Nyíregyháza;10;80;77;70;100
+ZMM841;Vetési Albert Gimnázium;Veszprém;9;49;37;100;65
+HHX767;Révai Miklós Gimnázium;Győr;12;32;56;60;35
+OKZ087;ELTE Apáczai Csere János Gimnázium;Budapest;10;74;48;76;87
+RAL142;Vetési Albert Gimnázium;Veszprém;10;65;63;74;37
+KHN435;Dobó István Gimnázium;Eger;12;72;97;75;77
+EEK581;Dobó István Gimnázium;Eger;12;73;83;59;66
+DKS985;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;11;60;69;62;75
+TPA191;Révai Miklós Gimnázium;Győr;9;66;79;65;64
+BLQ011;Herman Ottó Gimnázium;Miskolc;11;35;99;81;82
+XCM978;Berzsenyi Dániel Gimnázium;Budapest;10;61;43;62;32
+FTS961;Fazekas Mihály Gimnázium;Budapest;10;73;60;90;100
+OCM619;Bolyai János Gimnázium;Kecskemét;10;68;95;61;78
+BXC294;Dobó István Gimnázium;Eger;12;59;44;60;86
+ZFN255;Herman Ottó Gimnázium;Miskolc;12;57;88;71;67
+WBH906;Kazinczy Ferenc Gimnázium;Győr;10;75;49;59;57
+XXG930;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;12;90;89;80;62
+YKN461;Herman Ottó Gimnázium;Miskolc;11;41;57;78;68
+XOM351;Kölcsey Ferenc Gimnázium;Nyíregyháza;12;55;58;82;79
+KVX475;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;12;68;59;45;33
+PIF174;Kazinczy Ferenc Gimnázium;Győr;9;93;90;68;79
+CVY011;Dobó István Gimnázium;Eger;11;45;57;46;23
+RGO713;Diósgyőri Gimnázium;Miskolc;9;63;53;65;66
+MYG951;Révai Miklós Gimnázium;Győr;11;60;62;62;60
+GVV064;Révai Miklós Gimnázium;Győr;9;91;94;80;90
+KKR641;Révai Miklós Gimnázium;Győr;10;66;88;79;86
+KFA411;Dobó István Gimnázium;Eger;11;32;55;70;56
+UTL044;Földes Ferenc Gimnázium;Miskolc;10;64;90;77;70
+RZS175;Fazekas Mihály Gimnázium;Budapest;9;73;100;56;100
+YWE340;Herman Ottó Gimnázium;Miskolc;11;73;88;71;74
+MQU759;Révai Miklós Gimnázium;Győr;9;84;62;66;66
+NYH634;Földes Ferenc Gimnázium;Miskolc;9;44;61;58;61
+BHX612;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;11;49;74;54;34
+NUJ768;Diósgyőri Gimnázium;Miskolc;10;60;74;97;77
+HZV712;Kölcsey Ferenc Gimnázium;Nyíregyháza;10;95;69;91;100
+CPC976;Révai Miklós Gimnázium;Győr;9;100;83;91;91
+RZG241;Leőwey Klára Gimnázium;Pécs;9;69;59;70;60
+FTH310;Fazekas Mihály Gimnázium;Budapest;12;93;100;48;89
+LMM171;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;12;47;71;73;44
+ZPA780;Tóth Árpád Gimnázium;Debrecen;12;51;16;42;45
+XFI389;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;11;70;92;60;75
+WPG158;Berzsenyi Dániel Gimnázium;Budapest;10;62;46;42;27
+NMX382;Tóth Árpád Gimnázium;Debrecen;12;51;48;60;66
+DMS166;Révai Miklós Gimnázium;Győr;12;64;36;47;80
+UWL713;Diósgyőri Gimnázium;Miskolc;12;70;60;98;77
+UWV028;Kölcsey Ferenc Gimnázium;Nyíregyháza;10;32;38;67;70
+SVF012;Földes Ferenc Gimnázium;Miskolc;9;82;71;74;46
+CQG897;Tóth Árpád Gimnázium;Debrecen;10;71;84;93;67
+MSJ751;Tóth Árpád Gimnázium;Debrecen;9;33;31;46;57
+XGX407;Kölcsey Ferenc Gimnázium;Nyíregyháza;11;72;42;50;45
+WNQ426;Dobó István Gimnázium;Eger;11;78;84;69;62
+FQD461;Vetési Albert Gimnázium;Veszprém;10;63;79;59;46
+NOU934;Vetési Albert Gimnázium;Veszprém;9;91;95;76;93
+KAS240;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;12;88;85;84;100
+VSZ042;Földes Ferenc Gimnázium;Miskolc;10;81;63;39;73
+IPP775;ELTE Apáczai Csere János Gimnázium;Budapest;12;44;88;93;65
+LVM387;Vetési Albert Gimnázium;Veszprém;9;85;47;97;67
+MXE026;Vetési Albert Gimnázium;Veszprém;9;73;100;83;64
+TVV890;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;12;100;100;100;79
+AUL894;Diósgyőri Gimnázium;Miskolc;11;68;95;71;100
+CLN961;Berzsenyi Dániel Gimnázium;Budapest;12;100;61;85;74
+GWE890;Leőwey Klára Gimnázium;Pécs;9;46;53;77;9
+OFO977;Földes Ferenc Gimnázium;Miskolc;12;76;84;100;100
+WCD445;Kölcsey Ferenc Gimnázium;Nyíregyháza;9;67;49;45;63
+XIV487;Berzsenyi Dániel Gimnázium;Budapest;9;99;100;85;80
+WKH954;Vetési Albert Gimnázium;Veszprém;9;67;100;84;61
+UUZ575;Kazinczy Ferenc Gimnázium;Győr;12;60;66;64;62
+XSG762;Földes Ferenc Gimnázium;Miskolc;11;75;23;52;52
+BSR194;Kazinczy Ferenc Gimnázium;Győr;12;65;84;60;47
+QVT604;Révai Miklós Gimnázium;Győr;9;99;71;58;95
+JHP696;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;10;77;100;99;60
+BTK316;Leőwey Klára Gimnázium;Pécs;9;85;61;34;65
+PJW989;Tóth Árpád Gimnázium;Debrecen;9;79;85;86;37
+HWX053;Berzsenyi Dániel Gimnázium;Budapest;10;74;63;89;45
+FAR401;ELTE Apáczai Csere János Gimnázium;Budapest;12;74;90;83;91
+XJJ713;Berzsenyi Dániel Gimnázium;Budapest;10;73;84;80;60
+ZBW311;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;10;96;98;78;89
+GZX200;Kölcsey Ferenc Gimnázium;Nyíregyháza;9;65;48;48;27
+EMN695;Kazinczy Ferenc Gimnázium;Győr;10;81;71;50;52
+QUK607;Tóth Árpád Gimnázium;Debrecen;10;83;73;96;95
+JWT977;Herman Ottó Gimnázium;Miskolc;12;72;65;100;70
+IUU455;ELTE Apáczai Csere János Gimnázium;Budapest;9;57;57;31;26
+HAS586;Vetési Albert Gimnázium;Veszprém;12;59;55;49;53
+UWN305;Vetési Albert Gimnázium;Veszprém;10;40;72;63;36
+MWA403;Leőwey Klára Gimnázium;Pécs;12;29;46;43;23
+DYY212;Dobó István Gimnázium;Eger;9;70;38;72;56
+KDB131;Vetési Albert Gimnázium;Veszprém;10;96;100;88;82
+DQJ372;Leőwey Klára Gimnázium;Pécs;10;93;68;72;76
+QZJ674;Leőwey Klára Gimnázium;Pécs;12;32;42;9;46
+LTR522;Révai Miklós Gimnázium;Győr;9;91;77;91;98
+GET565;Révai Miklós Gimnázium;Győr;11;76;77;72;67
+MUF409;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;9;45;29;67;68
+UXI648;Kölcsey Ferenc Gimnázium;Nyíregyháza;10;48;59;59;67
+EKZ444;Tóth Árpád Gimnázium;Debrecen;9;83;94;60;78
+NCK655;Földes Ferenc Gimnázium;Miskolc;11;67;57;69;54
+DMH387;Földes Ferenc Gimnázium;Miskolc;9;25;50;32;41
+DQL717;Vetési Albert Gimnázium;Veszprém;11;79;86;92;83
+YMF353;Bolyai János Gimnázium;Kecskemét;12;65;68;65;53
+VEE387;Vetési Albert Gimnázium;Veszprém;11;66;37;30;66
+VTN723;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;10;99;70;60;72
+NQW902;Berzsenyi Dániel Gimnázium;Budapest;10;59;59;55;88
+CUC078;Kölcsey Ferenc Gimnázium;Nyíregyháza;10;52;54;49;30
+PZA985;Tóth Árpád Gimnázium;Debrecen;10;52;75;66;58
+DMA631;Révai Miklós Gimnázium;Győr;9;64;48;72;96
+QVT043;Vetési Albert Gimnázium;Veszprém;12;40;27;44;53
+CLE526;ELTE Apáczai Csere János Gimnázium;Budapest;9;62;72;85;69
+VHR871;Bolyai János Gimnázium;Kecskemét;9;59;74;68;86
+SMG945;Fazekas Mihály Gimnázium;Budapest;9;96;55;75;74
+OKJ362;Földes Ferenc Gimnázium;Miskolc;9;74;60;62;72
+PGC541;Leőwey Klára Gimnázium;Pécs;10;83;83;83;89
+HPM383;Fazekas Mihály Gimnázium;Budapest;11;86;60;66;100
+VOF143;ELTE Apáczai Csere János Gimnázium;Budapest;12;25;68;48;54
+BEM431;Kölcsey Ferenc Gimnázium;Nyíregyháza;11;52;55;24;49
+IDN500;Leőwey Klára Gimnázium;Pécs;12;85;75;90;57
+QXX863;Kazinczy Ferenc Gimnázium;Győr;12;58;57;61;54
+QAY700;Révai Miklós Gimnázium;Győr;9;95;74;86;86
+PJJ497;Földes Ferenc Gimnázium;Miskolc;12;42;43;64;71
+DIW253;Dobó István Gimnázium;Eger;12;31;61;76;71
+TFG875;Vetési Albert Gimnázium;Veszprém;10;70;69;57;68
+ENA631;Révai Miklós Gimnázium;Győr;9;34;60;35;8
+HKN490;Diósgyőri Gimnázium;Miskolc;12;92;88;62;100
+WNH327;Berzsenyi Dániel Gimnázium;Budapest;9;60;57;55;45
+PIT103;Tóth Árpád Gimnázium;Debrecen;10;74;56;58;67
+AVR788;Kazinczy Ferenc Gimnázium;Győr;10;48;87;65;46
+TLH665;Fazekas Mihály Gimnázium;Budapest;10;58;100;98;100
+DBS991;Berzsenyi Dániel Gimnázium;Budapest;10;47;24;73;65
+KJX485;Bolyai János Gimnázium;Kecskemét;10;78;74;85;96
+IYR998;ELTE Apáczai Csere János Gimnázium;Budapest;11;67;67;57;79
+QQZ022;Herman Ottó Gimnázium;Miskolc;11;43;89;90;67
+GXM506;Dobó István Gimnázium;Eger;9;38;61;41;49
+TIG188;Diósgyőri Gimnázium;Miskolc;10;85;100;100;62
+OQW737;Leőwey Klára Gimnázium;Pécs;11;71;53;63;71
+HBR243;Fazekas Mihály Gimnázium;Budapest;9;100;100;95;79
+ZBU254;Kazinczy Ferenc Gimnázium;Győr;10;95;93;52;49
+KCW905;Leőwey Klára Gimnázium;Pécs;11;35;64;50;57
+ALH748;Fazekas Mihály Gimnázium;Budapest;10;79;57;86;57
+YSD739;Kölcsey Ferenc Gimnázium;Nyíregyháza;12;85;100;77;79
+OHK275;Révai Miklós Gimnázium;Győr;12;31;62;46;57
+PCP185;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;10;62;72;53;34
+AJF906;Herman Ottó Gimnázium;Miskolc;12;83;84;98;92
+UMD741;Leőwey Klára Gimnázium;Pécs;10;33;36;72;48
+YUB135;Révai Miklós Gimnázium;Győr;9;75;78;100;65
+ZDR753;Kazinczy Ferenc Gimnázium;Győr;11;55;66;34;43
+FJK490;Herman Ottó Gimnázium;Miskolc;10;36;44;45;47
+BDR303;Földes Ferenc Gimnázium;Miskolc;12;64;54;56;68
+LUJ231;Berzsenyi Dániel Gimnázium;Budapest;12;100;69;94;93
+DHD979;Fazekas Mihály Gimnázium;Budapest;11;43;43;78;33
+BTE182;Tóth Árpád Gimnázium;Debrecen;11;89;97;100;68
+TJL896;Földes Ferenc Gimnázium;Miskolc;11;57;46;84;54
+CZA882;Berzsenyi Dániel Gimnázium;Budapest;10;91;92;60;94
+PCD591;Tóth Árpád Gimnázium;Debrecen;11;94;80;60;67
+KPN492;Kölcsey Ferenc Gimnázium;Nyíregyháza;12;86;69;90;62
+HMN562;Szegedi Radnóti Miklós Kísérleti Gimnázium;Szeged;12;68;76;99;90
+QSY710;Bolyai János Gimnázium;Kecskemét;10;50;51;52;49
+RPE943;Földes Ferenc Gimnázium;Miskolc;9;48;89;68;58
+OER995;Berzsenyi Dániel Gimnázium;Budapest;12;62;70;59;52
+WWE386;Kölcsey Ferenc Gimnázium;Nyíregyháza;9;55;88;68;66
+TFA150;ELTE Apáczai Csere János Gimnázium;Budapest;10;50;52;57;36
+YFP761;Herman Ottó Gimnázium;Miskolc;11;63;82;79;52
+JDE061;Berzsenyi Dániel Gimnázium;Budapest;9;83;65;100;84
+VOR728;Kazinczy Ferenc Gimnázium;Győr;11;57;80;73;85
